@@ -23,14 +23,13 @@
 ## 🎯 My Short-Term Goals:
 - ✅ Land a data analyst internship
 - 🧪 Apply skills through hands-on case studies
--    Be Tenacious and Keep moving froward
+-    Just be Tenacious and Keep moving froward
 
 ---
 
 ## 💡 Fun facts about me:
 - I’m balancing college, self-study, and project work every day.
 - I believe in **progress over perfection**.
-- I'm getting more confident in scripting, automation, and solving data problems with Python.
 
 ---
 
@@ -42,14 +41,13 @@
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54),
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ,
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) , 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) , 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3b4c7a?style=for-the-badge&logo=seaborn&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### 🗃️ Databases & Tools
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9DA?style=for-the-badge&logo=snowflake&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
