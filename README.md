@@ -5,7 +5,7 @@
 🚀 I've successfully completed a hands-on **Data Analytics Bootcamp by Krish Naik**, where I built strong foundations in:
 
 - 📊 Excel (Advanced functions, Power Query)
-- 📈 Power BI & Tableau
+- 📈 Power BI 
 - 🐍 Python (pandas, NumPy, Matplotlib, Seaborn)
 - 💾 SQL (MS SQL Server, PostgreSQL)
 - 🧮 Statistics for Data Analysis
