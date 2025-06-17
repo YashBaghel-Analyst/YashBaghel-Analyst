@@ -23,7 +23,7 @@
 ## 🎯 My Short-Term Goals:
 - ✅ Land a data analyst internship
 - 🧪 Apply skills through hands-on case studies
--    Just be Tenacious and Keep moving froward
+- ✅ Just be Tenacious and Keep moving froward
 
 ---
 
